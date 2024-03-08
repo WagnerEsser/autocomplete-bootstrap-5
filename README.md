@@ -8,5 +8,6 @@
 - Maximum height of the list is 500px (customizable value in JS).
 
 ### Image
-![image](https://github.com/WagnerEsser/autocomplete-bootstrap-5/assets/17770639/3a5419b8-917f-414f-b830-739fd1b8954d)
+![image](https://github.com/WagnerEsser/autocomplete-bootstrap-5/assets/17770639/f6c758e1-b07e-4c50-8fb9-da6a561c61bb)
+
 
