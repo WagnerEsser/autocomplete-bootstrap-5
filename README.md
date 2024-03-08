@@ -7,6 +7,6 @@
 - Height and width of the list adjust with window resizing.
 - Maximum height of the list is 500px (customizable value in JS).
 
-### Images
-![image](https://github.com/WagnerEsser/autocomplete-bootstrap-5/assets/17770639/f7429bc3-2b79-4d8c-939d-386759bad1b0)
-![image](https://github.com/WagnerEsser/autocomplete-bootstrap-5/assets/17770639/4957c8b3-7c67-45ee-b57a-82d4047e26a9)
+### Image
+![image](https://github.com/WagnerEsser/autocomplete-bootstrap-5/assets/17770639/3a5419b8-917f-414f-b830-739fd1b8954d)
+
